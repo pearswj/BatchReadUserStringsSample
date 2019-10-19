@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.2": {
+      "Rhino3dmIO.Desktop/6.18.19266.14201": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Rhino3dmIO.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Rhino3dmIO.dll": {}
+        },
+        "build": {
+          "build/net45/Rhino3dmIO.Desktop.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win": {
+      "Rhino3dmIO.Desktop/6.18.19266.14201": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Rhino3dmIO.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Rhino3dmIO.dll": {}
+        },
+        "build": {
+          "build/net45/Rhino3dmIO.Desktop.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win-x64": {
+      "Rhino3dmIO.Desktop/6.18.19266.14201": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Rhino3dmIO.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Rhino3dmIO.dll": {}
+        },
+        "build": {
+          "build/net45/Rhino3dmIO.Desktop.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.2/win-x86": {
+      "Rhino3dmIO.Desktop/6.18.19266.14201": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Rhino3dmIO.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Rhino3dmIO.dll": {}
+        },
+        "build": {
+          "build/net45/Rhino3dmIO.Desktop.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rhino3dmIO.Desktop/6.18.19266.14201": {
+      "sha512": "Tzvoet3k+TZFDeF6aA8fLSn601dHzfrKAuwuyCWuu0DIuUD6cfRgOemkTvlphKxCl/wwG7dwrnmQMjAMGyA6sQ==",
+      "type": "package",
+      "path": "rhino3dmio.desktop/6.18.19266.14201",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net45/Rhino3dmIO.Desktop.targets",
+        "build/net45/Win32/librhino3dmio_native.dll",
+        "build/net45/Win64/librhino3dmio_native.dll",
+        "build/net45/librhino3dmio_native.dylib",
+        "lib/net45/Rhino3dmIO.dll",
+        "rhino3dmio.desktop.6.18.19266.14201.nupkg.sha512",
+        "rhino3dmio.desktop.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.2": [
+      "Rhino3dmIO.Desktop >= 6.18.19266.14201"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\will\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\will\\source\\repos\\BatchReadUserStringsSample\\BatchReadUserStringsSample\\BatchReadUserStringsSample.csproj",
+      "projectName": "BatchReadUserStringsSample",
+      "projectPath": "C:\\Users\\will\\source\\repos\\BatchReadUserStringsSample\\BatchReadUserStringsSample\\BatchReadUserStringsSample.csproj",
+      "packagesPath": "C:\\Users\\will\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\will\\source\\repos\\BatchReadUserStringsSample\\BatchReadUserStringsSample\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\will\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net462"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\dev\\github\\mcneel\\rhino.inside\\DotNet\\RhinoInside\\artifacts": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net462": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net462": {
+        "dependencies": {
+          "Rhino3dmIO.Desktop": {
+            "target": "Package",
+            "version": "[6.18.19266.14201, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

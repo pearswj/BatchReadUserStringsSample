@@ -1,0 +1,12 @@
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\obj\Debug\BatchReadUserStringsSample.csprojAssemblyReference.cache
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\obj\Debug\BatchReadUserStringsSample.csproj.CoreCompileInputs.cache
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\bin\Debug\Win32\librhino3dmio_native.dll
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\bin\Debug\Win64\librhino3dmio_native.dll
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\bin\Debug\librhino3dmio_native.dylib
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\bin\Debug\BatchReadUserStringsSample.exe.config
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\bin\Debug\BatchReadUserStringsSample.exe
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\bin\Debug\BatchReadUserStringsSample.pdb
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\bin\Debug\Rhino3dmIO.dll
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\obj\Debug\BatchReadUserStringsSample.csproj.CopyComplete
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\obj\Debug\BatchReadUserStringsSample.exe
+C:\Users\will\source\repos\BatchReadUserStringsSample\BatchReadUserStringsSample\obj\Debug\BatchReadUserStringsSample.pdb
